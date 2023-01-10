@@ -93,7 +93,7 @@ displaying hello microverse
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> in the project i added the html and css that displays hello microverse!.
 
 To get a local copy up and running, follow these steps.
 
@@ -112,12 +112,6 @@ To get a local copy up and running, follow these steps.
 - GitHub: [@LethaboMot](https://github.com/LethaboMot)
 - Twitter: [@profcipher](https://twitter.com/profcipher)
 - LinkedIn: [Lethabo Motloung](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lethabo-motloung-a8157624b/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
